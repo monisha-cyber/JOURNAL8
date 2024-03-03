@@ -12,3 +12,4 @@ The vulnerability assessment presented challenges in identifying hidden vulnerab
 To ensure functionality and security, I thoroughly evaluated the code and application. After refactoring, I conducted rigorous testing to identify any newly introduced vulnerabilities. In this assignment, I utilized tools like static code analysis, penetration testing, and secure coding guidelines.
 For future employers, I would display my successful completion of this assignment as evidence of my skills in secure coding, vulnerability assessment, and risk mitigation. It demonstrates my ability to enhance software security while maintaining functionality.
 
+
